@@ -1,7 +1,8 @@
 # What is this?
 
 
-One of the world class shadow boxes for designers 
+Creates shadows for image elements.
+Auto detects the color of your image and creates a shadow.
 
 
 # Installation
