@@ -7,7 +7,7 @@ Auto detects the color of your image and creates a shadow.
 
 # Installation
 
-`npm - shadowwiz --save`
+`npm i shadows_wiz`
 
 Then...
 
