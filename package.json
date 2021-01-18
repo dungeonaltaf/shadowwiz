@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/dungeonaltaf/shadowwiz/issues"
   },
-  "homepage": "https://github.com/dungeonaltaf/shadowwiz#readme"
+  "homepage": "https://github.com/dungeonaltaf/shadowwiz#readme",
+  "dependencies": {
+    "rgbaster": "^2.1.1"
+  }
 }
