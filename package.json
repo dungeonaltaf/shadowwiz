@@ -1,6 +1,6 @@
 {
   "name": "shadows_wiz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds awesome shadow boxes for designers",
   "main": "index.js",
   "scripts": {
