@@ -22,7 +22,7 @@ shadowwiz({
 ## Options
 
 
-Shadowwiz supports 2 optionsm both of which are optional:
+Shadowwiz supports 2 options both of which are optional:
 
 
 * *shadow_type* - _hard / soft_ (Defaults to soft)
