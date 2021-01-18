@@ -1,0 +1,29 @@
+{
+  "name": "shadows_wiz",
+  "version": "1.0.0",
+  "description": "Adds awesome shadow boxes for designers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dungeonaltaf/shadowwiz.git"
+  },
+  "keywords": [
+    "shadow",
+    "box",
+    "boxes",
+    "css",
+    "styling",
+    "new",
+    "latest",
+    "lib"
+  ],
+  "author": "badshah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dungeonaltaf/shadowwiz/issues"
+  },
+  "homepage": "https://github.com/dungeonaltaf/shadowwiz#readme"
+}
